@@ -81,4 +81,4 @@ Entrega correta pelo GitHub com README detalhado.
 ### Autor ✨
 
 Ana Lauren Dourado – Aluno(a)
-💻 GitHub: AnaLauren
+💻 GitHub: LaurenDourado
